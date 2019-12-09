@@ -9,3 +9,5 @@ It leverages:
     SQLAlchemy ORM
 
 It also demonstrates how to use a scalable folder structure for flask based apps
+
+
